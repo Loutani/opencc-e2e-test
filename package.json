@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Loutani/opencc-e2e-test/issues"
   },
-  "homepage": "https://github.com/Loutani/opencc-e2e-test#readme"
+  "homepage": "https://github.com/Loutani/opencc-e2e-test#readme",
+  "dependencies": {
+    "nightwatch": "^2.3.3"
+  }
 }
